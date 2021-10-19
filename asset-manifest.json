@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/carro-compra-ReactJs/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/carro-compra-ReactJs/static/js/main.4ecb6f02.chunk.js",
+    "main.js.map": "/carro-compra-ReactJs/static/js/main.4ecb6f02.chunk.js.map",
+    "runtime-main.js": "/carro-compra-ReactJs/static/js/runtime-main.60b8ba3d.js",
+    "runtime-main.js.map": "/carro-compra-ReactJs/static/js/runtime-main.60b8ba3d.js.map",
+    "static/js/2.90f12fd8.chunk.js": "/carro-compra-ReactJs/static/js/2.90f12fd8.chunk.js",
+    "static/js/2.90f12fd8.chunk.js.map": "/carro-compra-ReactJs/static/js/2.90f12fd8.chunk.js.map",
+    "static/js/3.64facbd1.chunk.js": "/carro-compra-ReactJs/static/js/3.64facbd1.chunk.js",
+    "static/js/3.64facbd1.chunk.js.map": "/carro-compra-ReactJs/static/js/3.64facbd1.chunk.js.map",
+    "index.html": "/carro-compra-ReactJs/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/carro-compra-ReactJs/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.90f12fd8.chunk.js.LICENSE.txt": "/carro-compra-ReactJs/static/js/2.90f12fd8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60b8ba3d.js",
+    "static/js/2.90f12fd8.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.4ecb6f02.chunk.js"
+  ]
+}
